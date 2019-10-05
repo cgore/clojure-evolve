@@ -6,9 +6,13 @@ A Clojure/ClojureScript library for Evolutionary Algorithms.
 
 FIXME
 
+## Namespaces
+
+* [`evolve.approach.genetic-algorithm`](doc/approach/genetic-algorithm.md)
+
 ## License
 
-Copyright © 2019 Christopher Mark Gore, all rights reserved.
+Copyright © 2019 Christopher Mark Gore, Soli Deo Gloria, all rights reserved.
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
