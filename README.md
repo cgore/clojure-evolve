@@ -9,6 +9,8 @@ FIXME
 ## Namespaces
 
 * [`evolve.approach.genetic-algorithm`](doc/approach/genetic-algorithm.md)
+* `evolve.math`
+* `evolve.performance.rosenbrock`
 
 ## License
 
